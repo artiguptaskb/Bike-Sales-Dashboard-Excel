@@ -75,7 +75,7 @@ Screenshots of data cleaning, PivotTables, and the final dashboard are included 
 ![Data Cleaning](Bike_sales_data.png)
 
 ### PivotTables
-![PivotTables](Pivot_table.jpg.png)
+![PivotTables](Pivot_table.jpg)
 
 ##  Key Learnings
 
