@@ -69,13 +69,13 @@ Screenshots of data cleaning, PivotTables, and the final dashboard are included 
 ##  Project Preview
 
 ### Final Bike Sales Dashboard
-![Bike Sales Dashboard](Screenshots/Bike_Sales_Dashboard.png)
+![Bike Sales Dashboard](Bike-sales-dasboard.jpeg)
 
 ### Data Cleaning
-![Data Cleaning](Screenshots/Data_Cleaning.png)
+![Data Cleaning](Bike_sales_data.png)
 
 ### PivotTables
-![PivotTables](Screenshots/PivotTables.png)
+![PivotTables](Pivot_table.jpg.png)
 
 ##  Key Learnings
 
